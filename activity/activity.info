@@ -1,0 +1,7 @@
+[Activity]
+name = Jugando-Aprendes
+activity_version = 3
+bundle_id = org.sugarlabs.Jugando_Aprendes
+exec = sugar-activity activity.JugandoAprendesActivity
+icon = icono
+license = GPLv2+
